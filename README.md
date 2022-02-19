@@ -1,0 +1,2 @@
+# kcs
+Kagamiz Contest System
